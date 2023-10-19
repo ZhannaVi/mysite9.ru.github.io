@@ -1,0 +1,2 @@
+2023-10-19T08:44:59+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OSPanel\domains\mysite9.ru\wp-includes\Requests\src\Transport\Curl.php на строке 205
+

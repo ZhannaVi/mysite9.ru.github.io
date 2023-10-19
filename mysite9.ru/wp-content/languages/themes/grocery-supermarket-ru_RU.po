@@ -1,0 +1,346 @@
+# Translation of Themes - Grocery Supermarket in Russian
+# This file is distributed under the same license as the Themes - Grocery Supermarket package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-08-20 07:42:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.9\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Grocery Supermarket\n"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Grocery Supermarket"
+msgstr "Grocery Supermarket"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Grocery Supermarket is a highly functional website template tailored for grocery stores, supermarkets, and convenience stores. Its user-friendly design caters to business owners in the retail industry, providing a platform to effectively showcase products and engage with customers online. Designed with the retail sector in mind, the theme offers a clean and organized layout that mirrors the aisles of a supermarket. You can easily create ecommerce websites for organic foods, daily groceries, vegetables, fruits, etc.Its visually appealing design features spacious sections for product categories, special promotions, featured items, and customer testimonials. The color palette and typography choices create a sense of familiarity and convenience, evoking the essence of a physical retail environment. Grocery Supermarket is equipped with a range of tools to enhance the shopping experience. Its responsive design ensures seamless navigation across devices, allowing customers to browse and shop effortlessly from their smartphones or tablets. The integration of an intuitive product catalog with filters simplifies product discovery, while a shopping cart and checkout system streamline the purchasing process. The Grocery Supermarket theme offers convenient inventory management, allowing store owners to update stock availability and prices in real time. Integrated customer reviews and ratings build trust and influence purchase decisions. Additionally, the theme can support various payment gateways, providing customers with flexible payment options."
+msgstr "Grocery Supermarket (продуктовый супермаркет) — это очень функциональный шаблон веб-сайта, предназначенный для продуктовых магазинов, супермаркетов и магазинов шаговой доступности. Его удобный дизайн предназначен для владельцев бизнеса в сфере розничной торговли, предоставляя платформу для эффективной демонстрации продуктов и взаимодействия с клиентами в Интернете. Разработанная с учетом сектора розничной торговли, тема предлагает чистый и организованный макет, который отражает проходы супермаркета. Вы можете легко создавать веб-сайты электронной коммерции для органических продуктов, продуктов на каждый день, овощей, фруктов и т. д. Его визуально привлекательный дизайн включает просторные разделы для категорий продуктов, специальных акций, избранных товаров и отзывов клиентов. Цветовая палитра и выбор типографики создают ощущение знакомости и удобства, напоминая о сущности физической среды розничной торговли. Продуктовый супермаркет оснащен целым рядом инструментов для повышения покупательского опыта. Его адаптивный дизайн обеспечивает плавную навигацию между устройствами, позволяя клиентам легко просматривать и делать покупки со своих смартфонов или планшетов. Интеграция интуитивно понятного каталога продуктов с фильтрами упрощает поиск продуктов, а корзина для покупок и система оформления заказов упрощают процесс покупки. Тема продуктового супермаркета предлагает удобное управление запасами, позволяя владельцам магазинов обновлять информацию о наличии товаров и ценах в режиме реального времени. Интегрированные отзывы и рейтинги клиентов укрепляют доверие и влияют на решения о покупке. Кроме того, тема может поддерживать различные платежные шлюзы, предоставляя клиентам гибкие варианты оплаты."
+
+#. translators: %s: post date
+#. translators: %s: post author
+#: inc/template-tags.php:27 inc/template-tags.php:33
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr "<span class=\"screen-reader-text\">Опубликовано</span> %s"
+
+#: functions.php:127
+msgid "Add widgets here."
+msgstr "Добавьте виджеты здесь."
+
+#: comments.php:53 comments.php:67
+msgid "Comment navigation"
+msgstr "Навигация по комментарию"
+
+#: comments.php:80
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:38
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Читать далее<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:44
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Изменить <span class=\"screen-reader-text\">%s</span>"
+
+#: functions.php:65
+msgid "Footer Menu"
+msgstr "Меню подвала"
+
+#: inc/customizer.php:494
+msgid "Heading"
+msgstr "Заголовок"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "По данному адресу ничего не найдено. Попробуйте воспользоваться одной из ссылок ниже или поиском?"
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Похоже мы не можем найти то, что вы просите. Попробуйте воспользоваться поиском."
+
+#. translators: %s: post title
+#: inc/template-tags.php:42
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Добавить комментарий<span class=\"screen-reader-text\"> к  %s</span>"
+
+#. Template Name of the theme
+#: inc/customizer.php:231 inc/customizer.php:257
+msgid "Left Sidebar"
+msgstr "Левая боковая панель"
+
+#: comments.php:56 comments.php:70
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: comments.php:55 comments.php:69
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+#. translators: %s: post title
+#: comments.php:32
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к &ldquo;%s&rdquo;"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Страница не найдена."
+
+#: template-parts/content-page.php:31 template-parts/content-single.php:49
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: inc/template-tags.php:141
+msgid "Pingback:"
+msgstr "Уведомление:"
+
+#: functions.php:64
+msgid "Primary"
+msgstr "Основной"
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: footer.php:73
+msgid "Proudly powered by %s"
+msgstr "Работает на %s"
+
+#: template-parts/content-audio.php:53 template-parts/content-gallery.php:41
+#: template-parts/content-image.php:36 template-parts/content-search.php:21
+#: template-parts/content-video.php:52 template-parts/content.php:35
+msgid "Read More"
+msgstr "Читайте далее"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь!</a>."
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Поиск&hellip;"
+
+#. translators: %s: search query.
+#: search.php:20
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: header.php:33
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: inc/customizer.php:431
+msgid "Slider Settings"
+msgstr "Настройки слайдера"
+
+#: inc/customizer.php:505
+msgid "Sub Heading"
+msgstr "Подзаголовок"
+
+#: template-parts/navigation/nav.php:16
+msgid "Top Menu"
+msgstr "Верхнее меню"
+
+#: page-template/home-template.php:34
+msgid "VIEW MORE"
+msgstr "ПОКАЗАТЬ ЕЩЕ"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Вы должный войти на сайт, чтобы совершить покупку."
+
+#: inc/template-tags.php:167
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает проверки."
+
+#: woocommerce/checkout/form-checkout.php:51
+msgid "Your order"
+msgstr "Ваш заказ"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+#: template-parts/topheader/topheader1.php:60
+#: template-parts/topheader/topheader1.php:64
+msgid "Account"
+msgstr "Учётная запись"
+
+#: template-parts/topheader/mainheader.php:15
+msgid "All Categories"
+msgstr "Все рубрики"
+
+#: inc/customizer.php:486
+msgid "Best Sells Option"
+msgstr "Лучший вариант продаж"
+
+#: inc/customizer.php:389
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+#: inc/customizer.php:272
+msgid "Button Text 1"
+msgstr "Текст кнопки 1"
+
+#: inc/customizer.php:294
+msgid "Button Text 2"
+msgstr "Текст кнопки 2"
+
+#: inc/customizer.php:316
+msgid "Button Text 3"
+msgstr "Текст кнопки 3"
+
+#: inc/customizer.php:400
+msgid "Button Url"
+msgstr "URL кнопки"
+
+#: inc/customizer.php:283
+msgid "Button Url 1"
+msgstr "URL кнопки 1"
+
+#: inc/customizer.php:305
+msgid "Button Url 2"
+msgstr "URL кнопки 2"
+
+#: inc/customizer.php:327
+msgid "Button Url 3"
+msgstr "URL кнопки 3"
+
+#: template-parts/content-audio.php:43 template-parts/content-gallery.php:31
+#: template-parts/content-image.php:26 template-parts/content-search.php:15
+#: template-parts/content-single.php:29 template-parts/content-video.php:42
+#: template-parts/content.php:25
+msgid "BY"
+msgstr "ОТ"
+
+#: template-parts/topheader/topheader1.php:53
+msgid "Cart"
+msgstr "Корзина"
+
+#: inc/template-tags.php:142 inc/template-tags.php:162
+msgid "Edit"
+msgstr "Изменить"
+
+#: inc/customizer.php:30
+msgid "GET PREMIUM"
+msgstr "ПОЛУЧИТЬ ПРЕМИУМ"
+
+#: inc/customizer.php:14
+msgid "Grocery Supermarket Pro"
+msgstr "Grocery Supermarket Pro"
+
+#: inc/customizer.php:381
+msgid "Header Option"
+msgstr "Настройки заголовка"
+
+#: inc/customizer.php:432
+msgid "Here you have to add 3 different pages in below dropdown. Note: Image Dimensions 1400 x 550 px"
+msgstr "Здесь вы должны добавить 3 разные страницы в раскрывающемся списке ниже. Примечание. Размеры изображения 1400 x 550 px"
+
+#. Template Name of the theme
+msgid "Home Template"
+msgstr "Шаблон главной страницы"
+
+#: inc/customizer.php:411
+msgid "Phone Number"
+msgstr "Номер телефона"
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+#: searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "Поиск по:"
+
+#: inc/customizer.php:570
+msgid "Select category to display products "
+msgstr "Выберите категорию для отображения товара "
+
+#: inc/customizer.php:442
+msgid "Select Slide Page"
+msgstr "Выберите страницу слайдера"
+
+#: template-parts/topheader/topheader1.php:53
+msgid "shopping cart"
+msgstr "корзина для покупок"
+
+#: functions.php:125
+msgid "Sidebar"
+msgstr "Область виджетов"
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "По вашему запросу ничего не найдено. Попробуйте другие ключевые слова.."
+
+#: inc/customizer.php:533
+msgid "Tab Heading"
+msgstr "Заголовок вкладки"
+
+#: footer.php:97
+msgid "TOP"
+msgstr "ВЕРХ"
+
+#: inc/customizer.php:264
+msgid "Topbar Option"
+msgstr "Настройки верхней панели"
+
+#: inc/customizer.php:338
+msgid "Topbar Text"
+msgstr "Текст верхней панели"
+
+#: inc/customizer.php:516
+msgid "Types of Kitchen to show"
+msgstr "Типы кухонь для показа"
+
+#: inc/customizer.php:349
+msgid "Wishlist button"
+msgstr "Кнопка Списка желаний"
+
+#: inc/customizer.php:360
+msgid "Wishlist url"
+msgstr "URL списка желаний"
+
+#: inc/customizer.php:589
+msgid "Footer"
+msgstr "Подвал"
+
+#: inc/customizer.php:596
+msgid "Replace the footer text"
+msgstr "Заменить текст подвала"
+
+#. Template Name of the theme
+#: inc/customizer.php:232 inc/customizer.php:258
+msgid "Right Sidebar"
+msgstr "Правая область виджетов"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.themagnifico.net/"
+msgstr "https://www.themagnifico.net/"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://www.themagnifico.net/themes/free-grocery-wordpress-theme/"
+msgstr "https://www.themagnifico.net/themes/free-grocery-wordpress-theme/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "TheMagnifico52"
+msgstr "TheMagnifico52"
